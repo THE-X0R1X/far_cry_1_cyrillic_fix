@@ -13,6 +13,9 @@
 
 Видео-демонстрация работаспособности программы: https://youtu.be/KX3rfMKd6OE
  
+ # Поддержать меня
+ BTC: bc1q0ccu9pvp00xwnu8xumyc0ce9ckslzs2l85xpup
+ 
 # Прочее 
 Последняя версия: 1.0.
 
