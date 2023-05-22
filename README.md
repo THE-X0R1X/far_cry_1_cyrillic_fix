@@ -1,4 +1,4 @@
-# far_cry_1_cyrillic_fix
+# Far Cry 1 Cyrillic Fix
 Данная программа исправляет баг Far Cry 1 связанный с кириллицей.
 
 # Установка
