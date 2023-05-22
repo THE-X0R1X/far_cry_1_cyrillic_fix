@@ -12,7 +12,8 @@
 	Bin32\FarCry.exe -devmode
 
 Видео-демонстрация работаспособности программы: https://youtu.be/KX3rfMKd6OE
-  
+ 
+# Прочее 
 Последняя версия: 1.0.
 
 Автор: x0r1x(https://github.com/THE-X0R1X).
