@@ -15,6 +15,7 @@
 
 	FarCry.exe -devmode
 
+
 Видео-демонстрация работаспособности программы: https://youtu.be/KX3rfMKd6OE
  
  # Поддержать меня
